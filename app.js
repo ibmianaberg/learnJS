@@ -1,6 +1,8 @@
 'use strict'
 
-/*let name = "Bob Todd";
+/*
+Проба
+let name = "Bob Todd";
 let age ="23";
 console.log(`My name is ${name}. I am ${age} years old.`);*/
 
